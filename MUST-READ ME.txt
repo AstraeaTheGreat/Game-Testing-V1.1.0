@@ -1,0 +1,18 @@
+*************  GAME MADE BY AstraeaTheGreat   *************
+
+THIS GAME IS PRE-INSTALLED! YOU JUST NEED TO EXTRACT AND RUN SKY WIZARDS.
+
+YOU MUST TURN OFF YOUR ANTIVIRUS AND/OR WINDOWS DEFENDER BEFORE YOU EXTRACT THE GAME.
+
+If you have issues with the game running, you need to install the following prerequisites:
+
+1. All-In-One (AIO) Runtime. This installs the Microsoft Visual C++ Libraries needed to run games. You can download it here: https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/    Download, extract and run the "install_all.bat" file
+
+2. Make sure your DirectX is fully updated. Run the dxwebsetup.exe included in the folder or if you want to be safe you can download that from here: https://www.microsoft.com/en-us/download/details.aspx?id=35
+
+3. Microsoft XNA Framework. You can download that from here: https://www.microsoft.com/en-us/download/details.aspx?id=20914
+
+*************  GAME MADE BY AstraeaTheGreat   *************
+
+
+
